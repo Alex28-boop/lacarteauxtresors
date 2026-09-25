@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "city": "Poitiers",
+    "country": "France",
+    "treasure": "Parc de Blossac",
+    "latitude": 46.5791,
+    "longitude": 0.3376,
+    "clues": [
+      "Cette ville est l'ancienne capitale du Poitou.",
+      "Le trésor se trouve dans un grand espace vert situé au sud du centre historique.",
+      "Le trésor se cache dans le célèbre parc aménagé au XVIIIe siècle."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "city": "Nantes",
+    "country": "France",
+    "treasure": "Château des ducs de Bretagne",
+    "latitude": 47.2161,
+    "longitude": -1.5488,
+    "clues": [
+      "Cette ville est associée à Jules Verne, qui y est né.",
+      "Le trésor se trouve dans le centre historique, près de la Loire.",
+      "Le trésor est une forteresse médiévale devenue un monument emblématique de la ville."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "city": "Bordeaux",
+    "country": "France",
+    "treasure": "Place de la Bourse",
+    "latitude": 44.8414,
+    "longitude": -0.5699,
+    "clues": [
+      "Cette ville est mondialement connue pour ses vins.",
+      "Le trésor se trouve au bord de la Garonne, dans le centre historique.",
+      "Le trésor se trouve face au célèbre miroir d'eau."
+    ],
+    "difficulty": 1
+  }
+]
